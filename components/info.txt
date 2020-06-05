@@ -1,0 +1,1 @@
+This Folder contains The components that were used in the projects.
